@@ -1,4 +1,5 @@
-kafka&ui
+kafka4.0 &ui 
+no zookeeper 
 
 docker-compose up -d
 
